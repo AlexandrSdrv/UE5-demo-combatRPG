@@ -1,6 +1,8 @@
 # UE5-demo-combatRPG
 Working demo of RPG combat system made with Unreal Engine 5
 
+*Video demonstration of the demo is available in the first release*
+
 Features present in the project:
 -
 - Simple attack with a 3-hit combo if pressing the attack continuously.
